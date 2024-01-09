@@ -1,0 +1,288 @@
+#Happy{
+    color:black;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+
+}
+#New{
+    color:black;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px; 
+    margin-left: 1900px;
+    margin-right: 1900px;
+
+
+}
+.Banner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.profile-pic {
+    width: 1300px;
+    height: 600px;
+    border-radius: 16px;
+    margin: 0 50px 30px 30px;
+    
+
+}
+#discount{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+#holiday{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+#categories{color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+
+
+}
+#image{
+    width: 802.9px;
+height: 500px;
+display: block;
+margin-left: auto;
+ margin-right: auto;
+  
+}
+
+.picture2{
+    
+    
+      background-image: url('Vectorrr.png');
+        background-size: cover; 
+         
+    
+    
+
+
+}
+
+
+
+*{
+ box-sizing: border-box;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.midnight{
+    color:black;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; /* 137.5% */
+letter-spacing: 7.04px;
+text-align: center;
+
+
+
+}
+#email-align{
+    margin-left: 900px;
+    margin-right: 1000px;
+     
+}
+
+
+
+
+
+.sit{
+    color: rgba(7, 2, 17, 0.60);
+text-align:center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 32px; 
+}
+#join{
+    color:black;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
+
+.Hotel{
+    background-color: #fff8f3;
+    padding: 250px;
+    border-radius: 10px;
+    margin: 130px 1000px 200px 1000px;
+    width: ;
+    height: 1000px;
+    
+}
+
+.night{
+    margin-left: 1100px;
+}
+#newpark{
+    
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px; 
+    text-transform: capitalize;
+}
+#dolor{
+    color:black;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
+
+
+#JOIN{
+    color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px; 
+text-transform: capitalize;
+display: inline-flex;
+padding: 16px 32px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 8PX;
+background-color: #F00;
+margin-left: 1100px;
+margin-right: 1100px;
+
+
+
+}
+.fun{
+
+display: flex;
+
+
+}
+.Sale{
+    display: flex;
+}
+.rect{
+    text-align: center;
+}
+
+
+
+
+#FUNTIONAL{
+    color: #070211;
+text-align:center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+ margin-left: 1000px;
+ margin-right: 1000px;
+}
+.columb{
+    float:center;
+    width: 11%;
+    padding: 24px;
+    border-radius: 16px;
+}
+.row::after{
+    content: ;
+    display: table;
+    clear: both;
+    display: flex;
+}
+
+
+
+
+#rect1{
+    border-radius: 16px 0px 16px 16px;
+
+}
+#Newsletter{
+    color: #070211;
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.Subscribe-button{
+    border-radius: 0px 50px 50px 0px;
+background: #F00;
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: capitalize;
+margin-left: 1100px;
+margin-right: 1100px;
+
+}
+
+.Big{
+    background-color: #070211;
+    display: flex;
+}
